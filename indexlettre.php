@@ -44,10 +44,10 @@ VALUES ('$nom', '$prenom', '$age', '$sexe', '$comportement', '$message_perso', '
             $phrase = "j'aimerais bien trouver sous le sapin une récompense pour tous les efforts que j'ai faits,";
             break;
         case "parfaitement sage":
-            $phrase = "J'espère que tu nous apporteras du bonheur et plein de belles choses sous le sapin,";
+            $phrase = "J'espère que tu nous apporteras du bonheur et plein de belles surprises sous le sapin,";
             break;
         case "moyennement sage":
-            $phrase = "J'espère que tu pardonneras mes petites bêtises et que tu nous apporteras de beaux cadeaux,";
+            $phrase = "J'espère que tu pardonneras mes petites bêtises et que tu nous apporteras quand même de beaux cadeaux,";
             break;
         case "pas sage du tout":
             $phrase = "Je sais que tu apportes seulement des cadeaux aux enfants sages...";
